@@ -1,4 +1,4 @@
-# Web Research Agent using ReAct Pattern
+# Web Research Agent using React Pattern
 
 ## Project Overview
 This project implements a Web Research Agent using the ReAct (Reasoning + Acting) pattern. The agent intelligently plans research questions using a Large Language Model and gathers relevant information from the web using a search tool. The final output is a structured research report.
